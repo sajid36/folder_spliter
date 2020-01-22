@@ -1,7 +1,7 @@
 Split the folder with subfolders containing N numbers of files.
 
 set desired folder name in "source" variable
-set desired number of files in "chunk" variable
+and set desired number of files in "chunk" variable
 
 Run the script as following:
 python3 chunk.py
